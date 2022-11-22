@@ -1,0 +1,17 @@
+.likes{
+    padding: 20px;
+    margin: 10px;
+}
+
+.dislikes{
+    padding: 20px;
+    margin: 10px;
+}
+#like-list{
+    font-weight: 20px;
+    color: greenyellow;
+}
+#dislike-list{
+    font-weight: 20px;
+    color: maroon;
+}
